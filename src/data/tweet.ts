@@ -12,5 +12,5 @@ export const tweet: Tweet = {
   retweetCount: 1,
   liked: true,
   retweeted: false,
-  dataPost: new Date(2024, 8, 1, 10, 0, 0),
+  dataPost: new Date(2025, 12, 1, 10, 0, 0),
 };
